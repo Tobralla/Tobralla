@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Inxx
 
-**Developer who codes for fun** — I build automations, bots, and experiments that run themselves so you don't have to.
+**Developer who codes for fun.** I build automations, bots, and experiments that run themselves.
 
 [![Minecraft](https://img.shields.io/badge/Minecraft-Bedrock-62b47a?logo=minecraft&logoColor=white)](https://github.com/Tobralla)
 [![Node.js](https://img.shields.io/badge/Node.js-43853d?logo=node.js&logoColor=white)](https://github.com/Tobralla)
@@ -15,8 +15,8 @@
 
 | Area | Projects |
 |---|---|
-| 🤖 **Automation & bots** | [Bedrock AFK Manager](https://github.com/Tobralla/bedrock-afk-manager) — 24/7 Minecraft Bedrock AFK with a Discord control panel |
-| 🛠️ **Tooling** | [Interia Mail Generator](https://github.com/Tobralla/interia-mail-generator) — Selenium automation project |
+| 🤖 **Automation & bots** | [Bedrock AFK Manager](https://github.com/Tobralla/bedrock-afk-manager), 24/7 Minecraft Bedrock AFK with a Discord control panel |
+| 🛠️ **Tooling** | [Interia Mail Generator](https://github.com/Tobralla/interia-mail-generator), a Selenium automation project |
 
 ## 📊 GitHub stats
 
@@ -33,5 +33,5 @@
 
 ---
 
-<p align="center"><i>Always shipping — automation over manual work.</i></p>
+<p align="center"><i>Always shipping. Automation over manual work.</i></p>
 </div>

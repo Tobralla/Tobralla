@@ -15,8 +15,8 @@
 
 | Area | Projects |
 |---|---|
-| 🤖 **Automation & bots** | [AFK Discord Bot](https://github.com/Tobralla/afkdiscordbot) — 24/7 Minecraft Bedrock AFK with a Discord control panel |
-| 🛠️ **Tooling** | [Interia Mail Generator](https://github.com/Tobralla/Interia.pl-Mail-generator) — Selenium automation project |
+| 🤖 **Automation & bots** | [Bedrock AFK Manager](https://github.com/Tobralla/bedrock-afk-manager) — 24/7 Minecraft Bedrock AFK with a Discord control panel |
+| 🛠️ **Tooling** | [Interia Mail Generator](https://github.com/Tobralla/interia-mail-generator) — Selenium automation project |
 
 ## 📊 GitHub stats
 

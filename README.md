@@ -16,6 +16,7 @@
 | Area | Projects |
 |---|---|
 | 🤖 **Automation & bots** | [Bedrock AFK Manager](https://github.com/Tobralla/bedrock-afk-manager), 24/7 Minecraft Bedrock AFK with a Discord control panel |
+| 🔌 **MCP servers** | [Minehut MCP](https://github.com/Tobralla/minehut-mcp), let any AI agent control your Minehut server via browser + API |
 | 🛠️ **Tooling** | [Interia Mail Generator](https://github.com/Tobralla/interia-mail-generator), a Selenium automation project |
 
 ## 📊 GitHub stats

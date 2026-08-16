@@ -2,14 +2,12 @@
 
 # 👋 Hi, I'm Inxx
 
-**Automation engineer** — I build bots, browser extensions, and on-chain tooling that run themselves so you don't have to.
+**Developer who codes for fun** — I build automations, bots, and experiments that run themselves so you don't have to.
 
 [![Minecraft](https://img.shields.io/badge/Minecraft-Bedrock-62b47a?logo=minecraft&logoColor=white)](https://github.com/Tobralla)
 [![Node.js](https://img.shields.io/badge/Node.js-43853d?logo=node.js&logoColor=white)](https://github.com/Tobralla)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://github.com/Tobralla)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://github.com/Tobralla)
-[![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)](https://github.com/Tobralla)
-[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)](https://github.com/Tobralla)
 
 ---
 
@@ -18,7 +16,6 @@
 | Area | Projects |
 |---|---|
 | 🤖 **Automation & bots** | [AFK Discord Bot](https://github.com/Tobralla/afkdiscordbot) — 24/7 Minecraft Bedrock AFK with a Discord control panel |
-| ⛓️ **Web3 / on-chain** | [PT v5 Draw Auction Bot](https://github.com/Tobralla/pt-v5-draw-auction-gh-action-bot) — PoolTogether auction bot on 6 chains |
 | 🛠️ **Tooling** | [Interia Mail Generator](https://github.com/Tobralla/Interia.pl-Mail-generator) — Selenium automation project |
 
 ## 📊 GitHub stats

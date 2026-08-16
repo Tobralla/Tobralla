@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Inxx
 
-**Automation engineer from Denmark** — I build bots, browser extensions, and on-chain tooling that run themselves so you don't have to.
+**Automation engineer** — I build bots, browser extensions, and on-chain tooling that run themselves so you don't have to.
 
 [![Minecraft](https://img.shields.io/badge/Minecraft-Bedrock-62b47a?logo=minecraft&logoColor=white)](https://github.com/Tobralla)
 [![Node.js](https://img.shields.io/badge/Node.js-43853d?logo=node.js&logoColor=white)](https://github.com/Tobralla)
@@ -18,9 +18,8 @@
 | Area | Projects |
 |---|---|
 | 🤖 **Automation & bots** | [AFK Discord Bot](https://github.com/Tobralla/afkdiscordbot) — 24/7 Minecraft Bedrock AFK with a Discord control panel |
-| 🌐 **Chrome extensions** | [Lectio AI Assistent](https://github.com/Tobralla/lectioaiassistent) — AI study assistant for Danish high-school |
 | ⛓️ **Web3 / on-chain** | [PT v5 Draw Auction Bot](https://github.com/Tobralla/pt-v5-draw-auction-gh-action-bot) — PoolTogether auction bot on 6 chains |
-| 🎮 **Gaming tooling** | [Steam IDler](https://github.com/Tobralla/simple-steam-idler-replit) — 24/7 idle-hour bot |
+| 🛠️ **Tooling** | [Interia Mail Generator](https://github.com/Tobralla/Interia.pl-Mail-generator) — Selenium automation project |
 
 ## 📊 GitHub stats
 
